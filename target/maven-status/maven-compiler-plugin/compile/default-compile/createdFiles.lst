@@ -1,0 +1,5 @@
+com\kdavies\todolist\exceptions\ResourceNotFoundException.class
+com\kdavies\todolist\ToDoListApplication.class
+com\kdavies\todolist\controller\TaskController.class
+com\kdavies\todolist\model\Task.class
+com\kdavies\todolist\repository\TaskRepository.class

@@ -12,7 +12,7 @@ Requirements:
 
 Steps to Setup
 
-1. Clone the application from git repo
+1. Clone the application from git repository
 
 
 2. Create MySQL database

@@ -11,9 +11,9 @@ Requirements:
 
 Steps to Setup
 
-1. Clone the application
+1. Clone the application from git
 
-	git clone https://github.com/kathryndavies/todolist.git
+
 
 2. Create MySQL database
 

@@ -1,4 +1,12 @@
 
 language: java
+
+services:
+  - docker
 sudo: false
-script: mvn clean compile
+script: mvn clean compile package
+
+before_install:
+  - docker build -t bucinkocloud/tasklist .
+  - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
+  - docker push bucinkocloud/tasklist:latest

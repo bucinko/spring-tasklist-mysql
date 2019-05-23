@@ -14,7 +14,6 @@ Steps to Setup
 1. Clone the application from git
 
 
-
 2. Create MySQL database
 
 	mysql> CREATE DATABASE user_data;

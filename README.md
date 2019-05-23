@@ -9,9 +9,10 @@ Requirements:
     MySQL - 5.x.x
     Postman 6.x.x
 
+
 Steps to Setup
 
-1. Clone the application from git
+1. Clone the application from git repo
 
 
 2. Create MySQL database
